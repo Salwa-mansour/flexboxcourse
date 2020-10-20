@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 50px;
+}
+
+div[class^="box"]{
+    padding: 5px;
+}
+.box1{
+    background-color: rgb(28, 145, 125);
+}
+.box2{
+    background-color: rgb(43, 123, 177);
+}
+.box3{
+    background-color: rgb(158, 42, 187);
+}
+.box4{
+    background-color: rgb(53, 57, 61);
+}
+.box5{
+    background-color: rgb(199, 171, 47);
+}
+.box6{
+    background-color: rgb(212, 137, 24);
+}
+.box7{
+    background-color: rgb(212, 62, 24);
+}
+.box8{
+    background-color: rgb(161, 218, 218);
+}
+.box9{
+    background-color: rgb(123, 204, 127);
+}
+.box10{
+    background-color: rgb(15, 116, 94);
+}
+.container{
+    
+}
